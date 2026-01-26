@@ -1,0 +1,146 @@
+2026-01-22 16:46:12.906 [main] INFO  ktor.application - Autoreload is disabled because the development mode is off.
+2026-01-22 16:46:13.206 [main] INFO  com.zaxxer.hikari.HikariDataSource - HikariPool-1 - Starting...
+2026-01-22 16:46:13.782 [main] INFO  com.zaxxer.hikari.pool.HikariPool - HikariPool-1 - Added connection com.mysql.cj.jdbc.ConnectionImpl@b967222
+2026-01-22 16:46:13.784 [main] INFO  com.zaxxer.hikari.HikariDataSource - HikariPool-1 - Start completed.
+2026-01-22 16:46:14.486 [main] INFO  ktor.application - Application started in 1.639 seconds.
+2026-01-22 16:46:14.487 [main] INFO  ktor.application - Application started: io.ktor.server.application.Application@1a865273
+2026-01-22 16:46:14.713 [DefaultDispatcher-worker-2] INFO  ktor.application - Responding at http://127.0.0.1:8080
+2026-01-22 16:46:25.523 [eventLoopGroupProxy-4-1] INFO  ktor.application - [31m404 Not Found[m: [36mGET[m - / in 255ms
+2026-01-22 16:55:11.931 [eventLoopGroupProxy-4-4] INFO  ktor.application - [31m405 Method Not Allowed[m: [36mGET[m - /api/auth/register in 5ms
+2026-01-22 16:56:32.881 [eventLoopGroupProxy-4-5] INFO  ktor.application - [31m500 Internal Server Error[m: [36mPOST[m - /api/auth/register in 266ms
+2026-01-22 16:57:01.353 [eventLoopGroupProxy-4-6] INFO  ktor.application - [31m404 Not Found[m: [36mGET[m - / in 0ms
+2026-01-22 16:57:41.193 [eventLoopGroupProxy-4-8] INFO  ktor.application - [31m404 Not Found[m: [36mGET[m - / in 4ms
+2026-01-22 16:57:56.490 [main] INFO  ktor.application - Autoreload is disabled because the development mode is off.
+2026-01-22 16:57:56.960 [main] INFO  com.zaxxer.hikari.HikariDataSource - HikariPool-1 - Starting...
+2026-01-22 16:57:57.593 [main] INFO  com.zaxxer.hikari.pool.HikariPool - HikariPool-1 - Added connection com.mysql.cj.jdbc.ConnectionImpl@6a2eea2a
+2026-01-22 16:57:57.600 [main] INFO  com.zaxxer.hikari.HikariDataSource - HikariPool-1 - Start completed.
+2026-01-22 16:57:58.263 [main] INFO  ktor.application - Application started in 1.858 seconds.
+2026-01-22 16:57:58.264 [main] INFO  ktor.application - Application started: io.ktor.server.application.Application@26844abb
+2026-01-22 16:57:58.463 [DefaultDispatcher-worker-1] INFO  ktor.application - Responding at http://127.0.0.1:8080
+2026-01-22 17:04:10.676 [main] INFO  com.zaxxer.hikari.HikariDataSource - HikariPool-1 - Starting...
+2026-01-22 17:04:11.056 [main] INFO  com.zaxxer.hikari.pool.HikariPool - HikariPool-1 - Added connection com.mysql.cj.jdbc.ConnectionImpl@518caac3
+2026-01-22 17:04:11.059 [main] INFO  com.zaxxer.hikari.HikariDataSource - HikariPool-1 - Start completed.
+2026-01-22 17:04:11.180 [main] INFO  ktor.application - Autoreload is disabled because the development mode is off.
+2026-01-22 17:04:11.781 [main] INFO  ktor.application - Application started in 0.668 seconds.
+2026-01-22 17:04:11.782 [main] INFO  ktor.application - Application started: io.ktor.server.application.Application@7be3a9ce
+2026-01-22 17:04:11.975 [DefaultDispatcher-worker-2] INFO  ktor.application - Responding at http://127.0.0.1:8080
+2026-01-22 17:04:19.528 [eventLoopGroupProxy-4-2] INFO  ktor.application - [31m404 Not Found[m: [36mGET[m - / in 88ms
+2026-01-22 17:06:38.686 [eventLoopGroupProxy-4-3] INFO  ktor.application - [31m500 Internal Server Error[m: [36mPOST[m - /api/auth/register in 189ms
+2026-01-22 17:07:41.014 [main] INFO  com.zaxxer.hikari.HikariDataSource - HikariPool-1 - Starting...
+2026-01-22 17:07:41.276 [main] INFO  com.zaxxer.hikari.pool.HikariPool - HikariPool-1 - Added connection com.mysql.cj.jdbc.ConnectionImpl@56dc1551
+2026-01-22 17:07:41.278 [main] INFO  com.zaxxer.hikari.HikariDataSource - HikariPool-1 - Start completed.
+2026-01-22 17:07:41.355 [main] INFO  ktor.application - Autoreload is disabled because the development mode is off.
+2026-01-22 17:07:42.114 [main] INFO  ktor.application - Application started in 0.807 seconds.
+2026-01-22 17:07:42.115 [main] INFO  ktor.application - Application started: io.ktor.server.application.Application@1c6c6f24
+2026-01-22 17:07:42.324 [DefaultDispatcher-worker-1] INFO  ktor.application - Responding at http://127.0.0.1:8080
+2026-01-22 17:09:47.984 [eventLoopGroupProxy-4-1] INFO  ktor.application - [31m500 Internal Server Error[m: [36mPOST[m - /api/auth/register in 775ms
+2026-01-22 17:10:21.227 [eventLoopGroupProxy-4-2] INFO  ktor.application - [31m500 Internal Server Error[m: [36mPOST[m - /api/auth/register in 17ms
+2026-01-22 17:19:06.945 [main] INFO  com.zaxxer.hikari.HikariDataSource - HikariPool-1 - Starting...
+2026-01-22 17:19:07.303 [main] INFO  com.zaxxer.hikari.pool.HikariPool - HikariPool-1 - Added connection com.mysql.cj.jdbc.ConnectionImpl@68f1b17f
+2026-01-22 17:19:07.304 [main] INFO  com.zaxxer.hikari.HikariDataSource - HikariPool-1 - Start completed.
+2026-01-22 17:19:07.401 [main] INFO  ktor.application - Autoreload is disabled because the development mode is off.
+2026-01-22 17:19:08.135 [main] INFO  ktor.application - Application started in 0.783 seconds.
+2026-01-22 17:19:08.136 [main] INFO  ktor.application - Application started: io.ktor.server.application.Application@2dd8239
+2026-01-22 17:19:08.391 [DefaultDispatcher-worker-1] INFO  ktor.application - Responding at http://127.0.0.1:8080
+2026-01-22 17:27:24.898 [main] INFO  com.zaxxer.hikari.HikariDataSource - HikariPool-1 - Starting...
+2026-01-22 17:27:25.158 [main] INFO  com.zaxxer.hikari.pool.HikariPool - HikariPool-1 - Added connection com.mysql.cj.jdbc.ConnectionImpl@3b5fad2d
+2026-01-22 17:27:25.160 [main] INFO  com.zaxxer.hikari.HikariDataSource - HikariPool-1 - Start completed.
+2026-01-22 17:27:25.250 [main] INFO  ktor.application - Autoreload is disabled because the development mode is off.
+2026-01-22 17:27:25.823 [main] INFO  ktor.application - Application started in 0.616 seconds.
+2026-01-22 17:27:25.824 [main] INFO  ktor.application - Application started: io.ktor.server.application.Application@1744a475
+2026-01-22 17:27:26.054 [DefaultDispatcher-worker-1] INFO  ktor.application - Responding at http://127.0.0.1:8080
+2026-01-22 17:28:29.577 [main] INFO  com.zaxxer.hikari.HikariDataSource - HikariPool-1 - Starting...
+2026-01-22 17:28:40.183 [main] INFO  com.zaxxer.hikari.HikariDataSource - HikariPool-1 - Starting...
+2026-01-22 17:28:55.283 [main] INFO  com.zaxxer.hikari.HikariDataSource - HikariPool-1 - Starting...
+2026-01-22 17:29:20.543 [main] INFO  com.zaxxer.hikari.HikariDataSource - HikariPool-1 - Starting...
+2026-01-22 17:29:20.848 [main] INFO  com.zaxxer.hikari.pool.HikariPool - HikariPool-1 - Added connection com.mysql.cj.jdbc.ConnectionImpl@3b5fad2d
+2026-01-22 17:29:20.851 [main] INFO  com.zaxxer.hikari.HikariDataSource - HikariPool-1 - Start completed.
+2026-01-22 17:29:20.964 [main] INFO  ktor.application - Autoreload is disabled because the development mode is off.
+2026-01-22 17:29:21.637 [main] INFO  ktor.application - Application started in 0.734 seconds.
+2026-01-22 17:29:21.638 [main] INFO  ktor.application - Application started: io.ktor.server.application.Application@1744a475
+2026-01-22 17:29:21.910 [DefaultDispatcher-worker-1] INFO  ktor.application - Responding at http://127.0.0.1:8080
+2026-01-22 17:31:32.967 [eventLoopGroupProxy-4-1] INFO  ktor.application - [31m500 Internal Server Error[m: [36mPOST[m - /api/auth/register in 209ms
+2026-01-22 17:33:44.248 [main] INFO  com.zaxxer.hikari.HikariDataSource - HikariPool-1 - Starting...
+2026-01-22 17:33:44.504 [main] INFO  com.zaxxer.hikari.pool.HikariPool - HikariPool-1 - Added connection com.mysql.cj.jdbc.ConnectionImpl@3b5fad2d
+2026-01-22 17:33:44.506 [main] INFO  com.zaxxer.hikari.HikariDataSource - HikariPool-1 - Start completed.
+2026-01-22 17:33:44.604 [main] INFO  ktor.application - Autoreload is disabled because the development mode is off.
+2026-01-22 17:33:45.241 [main] INFO  ktor.application - Application started in 0.684 seconds.
+2026-01-22 17:33:45.242 [main] INFO  ktor.application - Application started: io.ktor.server.application.Application@1744a475
+2026-01-22 17:33:45.482 [DefaultDispatcher-worker-1] INFO  ktor.application - Responding at http://127.0.0.1:8080
+2026-01-22 17:39:17.944 [main] INFO  com.zaxxer.hikari.HikariDataSource - HikariPool-1 - Starting...
+2026-01-22 17:39:18.234 [main] INFO  com.zaxxer.hikari.pool.HikariPool - HikariPool-1 - Added connection com.mysql.cj.jdbc.ConnectionImpl@43015c69
+2026-01-22 17:39:18.237 [main] INFO  com.zaxxer.hikari.HikariDataSource - HikariPool-1 - Start completed.
+2026-01-22 17:39:18.338 [main] INFO  ktor.application - Autoreload is disabled because the development mode is off.
+2026-01-22 17:39:18.944 [main] INFO  ktor.application - Application started in 0.652 seconds.
+2026-01-22 17:39:18.945 [main] INFO  ktor.application - Application started: io.ktor.server.application.Application@6a48a7f3
+2026-01-22 17:39:19.186 [DefaultDispatcher-worker-1] INFO  ktor.application - Responding at http://127.0.0.1:8080
+2026-01-22 17:39:58.692 [eventLoopGroupProxy-4-1] INFO  ktor.application - [31m500 Internal Server Error[m: [36mPOST[m - /api/auth/register in 211ms
+2026-01-22 17:42:46.738 [main] INFO  com.zaxxer.hikari.HikariDataSource - HikariPool-1 - Starting...
+2026-01-22 17:42:47.010 [main] INFO  com.zaxxer.hikari.pool.HikariPool - HikariPool-1 - Added connection com.mysql.cj.jdbc.ConnectionImpl@43015c69
+2026-01-22 17:42:47.013 [main] INFO  com.zaxxer.hikari.HikariDataSource - HikariPool-1 - Start completed.
+2026-01-22 17:42:47.120 [main] INFO  ktor.application - Autoreload is disabled because the development mode is off.
+2026-01-22 17:42:47.744 [main] INFO  ktor.application - Application started in 0.674 seconds.
+2026-01-22 17:42:47.745 [main] INFO  ktor.application - Application started: io.ktor.server.application.Application@6a48a7f3
+2026-01-22 17:42:47.989 [DefaultDispatcher-worker-1] INFO  ktor.application - Responding at http://127.0.0.1:8080
+2026-01-22 17:58:43.788 [main] INFO  com.zaxxer.hikari.HikariDataSource - HikariPool-1 - Starting...
+2026-01-22 17:58:44.071 [main] INFO  com.zaxxer.hikari.pool.HikariPool - HikariPool-1 - Added connection com.mysql.cj.jdbc.ConnectionImpl@43015c69
+2026-01-22 17:58:44.074 [main] INFO  com.zaxxer.hikari.HikariDataSource - HikariPool-1 - Start completed.
+2026-01-22 17:58:44.164 [main] INFO  ktor.application - Autoreload is disabled because the development mode is off.
+2026-01-22 17:58:44.825 [main] INFO  ktor.application - Application started in 0.705 seconds.
+2026-01-22 17:58:44.825 [main] INFO  ktor.application - Application started: io.ktor.server.application.Application@6a48a7f3
+2026-01-22 17:58:45.082 [DefaultDispatcher-worker-1] INFO  ktor.application - Responding at http://127.0.0.1:8080
+2026-01-22 17:59:05.254 [eventLoopGroupProxy-4-1] INFO  ktor.application - [31m500 Internal Server Error[m: [36mPOST[m - /api/auth/register in 193ms
+2026-01-22 18:28:40.642 [main] INFO  ktor.application - Autoreload is disabled because the development mode is off.
+2026-01-22 18:28:40.709 [main] INFO  com.zaxxer.hikari.HikariDataSource - HikariPool-1 - Starting...
+2026-01-22 18:30:14.506 [main] INFO  ktor.application - Autoreload is disabled because the development mode is off.
+2026-01-22 18:30:14.571 [main] INFO  com.zaxxer.hikari.HikariDataSource - HikariPool-1 - Starting...
+2026-01-22 18:32:21.870 [main] INFO  ktor.application - Autoreload is disabled because the development mode is off.
+2026-01-22 18:32:22.222 [main] INFO  com.zaxxer.hikari.HikariDataSource - HikariPool-1 - Starting...
+2026-01-22 18:32:22.250 [main] INFO  com.zaxxer.hikari.pool.HikariPool - HikariPool-1 - Added connection com.mysql.cj.jdbc.ConnectionImpl@12f9af83
+2026-01-22 18:32:22.252 [main] INFO  com.zaxxer.hikari.HikariDataSource - HikariPool-1 - Start completed.
+2026-01-22 18:32:22.732 [main] INFO  ktor.application - Application started in 0.94 seconds.
+2026-01-22 18:32:22.733 [main] INFO  ktor.application - Application started: io.ktor.server.application.Application@7dac3fd8
+2026-01-22 18:32:28.307 [KtorShutdownHook] INFO  ktor.application - Application stopping: io.ktor.server.application.Application@7dac3fd8
+2026-01-22 18:32:28.314 [KtorShutdownHook] INFO  ktor.application - Application stopped: io.ktor.server.application.Application@7dac3fd8
+2026-01-22 18:33:06.855 [main] INFO  ktor.application - Autoreload is disabled because the development mode is off.
+2026-01-22 18:33:07.183 [main] INFO  com.zaxxer.hikari.HikariDataSource - HikariPool-1 - Starting...
+2026-01-22 18:33:07.206 [main] INFO  com.zaxxer.hikari.pool.HikariPool - HikariPool-1 - Added connection com.mysql.cj.jdbc.ConnectionImpl@12f9af83
+2026-01-22 18:33:07.208 [main] INFO  com.zaxxer.hikari.HikariDataSource - HikariPool-1 - Start completed.
+2026-01-22 18:34:09.374 [main] INFO  ktor.application - Autoreload is disabled because the development mode is off.
+2026-01-22 18:34:09.751 [main] INFO  com.zaxxer.hikari.HikariDataSource - HikariPool-1 - Starting...
+2026-01-22 18:34:09.789 [main] INFO  com.zaxxer.hikari.pool.HikariPool - HikariPool-1 - Added connection com.mysql.cj.jdbc.ConnectionImpl@12f9af83
+2026-01-22 18:34:09.793 [main] INFO  com.zaxxer.hikari.HikariDataSource - HikariPool-1 - Start completed.
+2026-01-22 18:35:22.071 [main] INFO  ktor.application - Autoreload is disabled because the development mode is off.
+2026-01-22 18:35:22.459 [main] INFO  com.zaxxer.hikari.HikariDataSource - HikariPool-1 - Starting...
+2026-01-22 18:35:22.495 [main] INFO  com.zaxxer.hikari.pool.HikariPool - HikariPool-1 - Added connection com.mysql.cj.jdbc.ConnectionImpl@12f9af83
+2026-01-22 18:35:22.500 [main] INFO  com.zaxxer.hikari.HikariDataSource - HikariPool-1 - Start completed.
+2026-01-22 18:36:25.614 [main] INFO  ktor.application - Autoreload is disabled because the development mode is off.
+2026-01-22 18:36:25.944 [main] INFO  com.zaxxer.hikari.HikariDataSource - HikariPool-1 - Starting...
+2026-01-22 18:36:25.968 [main] INFO  com.zaxxer.hikari.pool.HikariPool - HikariPool-1 - Added connection com.mysql.cj.jdbc.ConnectionImpl@7e6ef134
+2026-01-22 18:36:25.970 [main] INFO  com.zaxxer.hikari.HikariDataSource - HikariPool-1 - Start completed.
+2026-01-22 18:36:26.299 [main] INFO  ktor.application - Application started in 0.744 seconds.
+2026-01-22 18:36:26.300 [main] INFO  ktor.application - Application started: io.ktor.server.application.Application@7dac3fd8
+2026-01-22 18:36:31.884 [KtorShutdownHook] INFO  ktor.application - Application stopping: io.ktor.server.application.Application@7dac3fd8
+2026-01-22 18:36:31.892 [KtorShutdownHook] INFO  ktor.application - Application stopped: io.ktor.server.application.Application@7dac3fd8
+2026-01-22 18:38:16.956 [main] INFO  ktor.application - Autoreload is disabled because the development mode is off.
+2026-01-22 18:38:17.318 [main] INFO  com.zaxxer.hikari.HikariDataSource - HikariPool-1 - Starting...
+2026-01-22 18:38:17.335 [main] INFO  com.zaxxer.hikari.pool.HikariPool - HikariPool-1 - Added connection com.mysql.cj.jdbc.ConnectionImpl@7e6ef134
+2026-01-22 18:38:17.335 [main] INFO  com.zaxxer.hikari.HikariDataSource - HikariPool-1 - Start completed.
+2026-01-22 18:38:17.692 [main] INFO  ktor.application - Application started in 0.82 seconds.
+2026-01-22 18:38:17.692 [main] INFO  ktor.application - Application started: io.ktor.server.application.Application@7dac3fd8
+2026-01-22 18:38:17.997 [DefaultDispatcher-worker-1] INFO  ktor.application - Responding at http://127.0.0.1:8080
+2026-01-22 18:38:57.319 [eventLoopGroupProxy-4-1] INFO  ktor.application - [31m500 Internal Server Error[m: [36mPOST[m - /api/auth/register in 1981ms
+2026-01-22 18:39:33.233 [eventLoopGroupProxy-4-2] INFO  ktor.application - [31m500 Internal Server Error[m: [36mPOST[m - /api/auth/register in 2ms
+2026-01-22 18:40:07.508 [eventLoopGroupProxy-4-3] INFO  ktor.application - [31m500 Internal Server Error[m: [36mPOST[m - /api/auth/register in 17ms
+2026-01-22 18:48:07.135 [main] INFO  ktor.application - Autoreload is disabled because the development mode is off.
+2026-01-22 18:48:07.475 [main] INFO  com.zaxxer.hikari.HikariDataSource - HikariPool-1 - Starting...
+2026-01-22 18:48:07.500 [main] INFO  com.zaxxer.hikari.pool.HikariPool - HikariPool-1 - Added connection com.mysql.cj.jdbc.ConnectionImpl@7e6ef134
+2026-01-22 18:48:07.502 [main] INFO  com.zaxxer.hikari.HikariDataSource - HikariPool-1 - Start completed.
+2026-01-22 18:48:07.838 [main] INFO  ktor.application - Application started in 0.762 seconds.
+2026-01-22 18:48:07.839 [main] INFO  ktor.application - Application started: io.ktor.server.application.Application@7dac3fd8
+2026-01-22 18:48:08.200 [DefaultDispatcher-worker-1] INFO  ktor.application - Responding at http://127.0.0.1:8080
+2026-01-22 18:48:32.209 [eventLoopGroupProxy-4-1] INFO  ktor.application - [31m500 Internal Server Error[m: [36mPOST[m - /api/auth/register in 1830ms
+2026-01-22 18:50:47.056 [main] INFO  ktor.application - Autoreload is disabled because the development mode is off.
+2026-01-22 18:50:47.396 [main] INFO  com.zaxxer.hikari.HikariDataSource - HikariPool-1 - Starting...
+2026-01-22 18:50:47.422 [main] INFO  com.zaxxer.hikari.pool.HikariPool - HikariPool-1 - Added connection com.mysql.cj.jdbc.ConnectionImpl@12f9af83
+2026-01-22 18:50:47.426 [main] INFO  com.zaxxer.hikari.HikariDataSource - HikariPool-1 - Start completed.
