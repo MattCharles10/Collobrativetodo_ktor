@@ -9,7 +9,7 @@ object DatabaseConfig {
     // HARDCODE EVERYTHING for testing
     private val jdbcUrl = "jdbc:postgresql://localhost:5432/todoapp"
     private val username = "postgres"
-    private val password = "1234"  // ← HARDCODED PASSWORD
+    private val password = ""  // ← HARDCODED PASSWORD
     private val maxPoolSize = 10
 
     init {

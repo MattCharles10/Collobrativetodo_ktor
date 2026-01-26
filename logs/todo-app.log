@@ -43,3 +43,12 @@
 2026-01-26 17:43:42.786 [eventLoopGroupProxy-4-1] INFO  Application - Status: 200 OK, HTTP method: GET, URI: /, User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/144.0.0.0 Safari/537.36
 2026-01-26 17:43:43.119 [eventLoopGroupProxy-4-1] INFO  Application - Status: 404 Not Found, HTTP method: GET, URI: /favicon.ico, User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/144.0.0.0 Safari/537.36
 2026-01-26 17:43:43.119 [eventLoopGroupProxy-4-1] INFO  Application - Status: 404 Not Found, HTTP method: GET, URI: /favicon.ico, User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/144.0.0.0 Safari/537.36
+2026-01-26 18:15:06.208 [main] INFO  com.zaxxer.hikari.HikariDataSource - TodoAppPool - Starting...
+2026-01-26 18:15:06.712 [main] INFO  com.zaxxer.hikari.pool.HikariPool - TodoAppPool - Added connection org.postgresql.jdbc.PgConnection@75a118e6
+2026-01-26 18:15:06.712 [main] INFO  com.zaxxer.hikari.HikariDataSource - TodoAppPool - Start completed.
+2026-01-26 18:15:06.870 [main] INFO  Application - Application started in 1.43 seconds.
+2026-01-26 18:15:06.870 [main] INFO  Application - Application started: io.ktor.server.application.Application@2f4c2cd4
+2026-01-26 18:15:07.152 [main] INFO  Application - Responding at http://127.0.0.1:8080
+2026-01-26 18:15:15.260 [eventLoopGroupProxy-4-2] INFO  Application - Status: 200 OK, HTTP method: GET, URI: /, User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/144.0.0.0 Safari/537.36
+2026-01-26 18:15:15.428 [eventLoopGroupProxy-4-2] INFO  Application - Status: 404 Not Found, HTTP method: GET, URI: /favicon.ico, User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/144.0.0.0 Safari/537.36
+2026-01-26 18:15:15.428 [eventLoopGroupProxy-4-2] INFO  Application - Status: 404 Not Found, HTTP method: GET, URI: /favicon.ico, User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/144.0.0.0 Safari/537.36
