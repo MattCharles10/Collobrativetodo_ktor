@@ -71,6 +71,8 @@ tasks.withType<Jar> {
 
     from(sourceSets.main.get().output)
 
+    duplicatesStrategy = DuplicatesStrategy.EXCLUDE
+
     dependsOn(configurations.runtimeClasspath)
     from({
         configurations.runtimeClasspath.get().filter { it.name.endsWith("jar") }.map { zipTree(it) }
