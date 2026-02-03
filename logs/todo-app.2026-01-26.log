@@ -1,0 +1,89 @@
+2026-01-26 14:11:02.047 [main] INFO  Application - Application stopping: io.ktor.server.application.Application@22d6cac2
+2026-01-26 14:11:02.061 [main] INFO  Application - Application stopped: io.ktor.server.application.Application@22d6cac2
+2026-01-26 14:12:02.279 [main] INFO  Application - Application stopping: io.ktor.server.application.Application@210f0cc1
+2026-01-26 14:12:02.282 [main] INFO  Application - Application stopped: io.ktor.server.application.Application@210f0cc1
+2026-01-26 14:15:10.307 [main] INFO  Application - Application stopping: io.ktor.server.application.Application@367795c7
+2026-01-26 14:15:10.312 [main] INFO  Application - Application stopped: io.ktor.server.application.Application@367795c7
+2026-01-26 14:16:12.520 [main] ERROR com.zaxxer.hikari.HikariConfig - TodoAppPool - jdbcUrl is required with driverClassName.
+2026-01-26 14:16:12.524 [main] INFO  Application - Application stopping: io.ktor.server.application.Application@4d192aef
+2026-01-26 14:16:12.531 [main] INFO  Application - Application stopped: io.ktor.server.application.Application@4d192aef
+2026-01-26 14:16:20.546 [main] ERROR com.zaxxer.hikari.HikariConfig - TodoAppPool - jdbcUrl is required with driverClassName.
+2026-01-26 14:16:20.548 [main] INFO  Application - Application stopping: io.ktor.server.application.Application@69d6a7cd
+2026-01-26 14:16:20.551 [main] INFO  Application - Application stopped: io.ktor.server.application.Application@69d6a7cd
+2026-01-26 14:16:52.360 [main] ERROR com.zaxxer.hikari.HikariConfig - TodoAppPool - jdbcUrl is required with driverClassName.
+2026-01-26 14:16:52.362 [main] INFO  Application - Application stopping: io.ktor.server.application.Application@50a3d0f6
+2026-01-26 14:16:52.366 [main] INFO  Application - Application stopped: io.ktor.server.application.Application@50a3d0f6
+2026-01-26 14:19:49.694 [main] INFO  com.zaxxer.hikari.HikariDataSource - TodoAppPool - Starting...
+2026-01-26 14:19:50.843 [main] INFO  Application - Application stopping: io.ktor.server.application.Application@15e0fe05
+2026-01-26 14:19:50.850 [main] INFO  Application - Application stopped: io.ktor.server.application.Application@15e0fe05
+2026-01-26 14:25:44.556 [main] INFO  com.zaxxer.hikari.HikariDataSource - TodoAppPool - Starting...
+2026-01-26 14:25:45.676 [main] INFO  Application - Application stopping: io.ktor.server.application.Application@128c502c
+2026-01-26 14:25:45.683 [main] INFO  Application - Application stopped: io.ktor.server.application.Application@128c502c
+2026-01-26 17:24:21.487 [main] INFO  com.zaxxer.hikari.HikariDataSource - TodoAppPool - Starting...
+2026-01-26 17:24:22.725 [main] INFO  Application - Application stopping: io.ktor.server.application.Application@128c502c
+2026-01-26 17:24:22.730 [main] INFO  Application - Application stopped: io.ktor.server.application.Application@128c502c
+2026-01-26 17:28:37.982 [main] INFO  com.zaxxer.hikari.HikariDataSource - TodoAppPool - Starting...
+2026-01-26 17:28:39.212 [main] INFO  Application - Application stopping: io.ktor.server.application.Application@128c502c
+2026-01-26 17:28:39.220 [main] INFO  Application - Application stopped: io.ktor.server.application.Application@128c502c
+2026-01-26 17:30:41.634 [main] INFO  com.zaxxer.hikari.HikariDataSource - TodoAppPool - Starting...
+2026-01-26 17:30:42.770 [main] INFO  Application - Application stopping: io.ktor.server.application.Application@128c502c
+2026-01-26 17:30:42.774 [main] INFO  Application - Application stopped: io.ktor.server.application.Application@128c502c
+2026-01-26 17:33:26.028 [main] INFO  com.zaxxer.hikari.HikariDataSource - TodoAppPool - Starting...
+2026-01-26 17:33:27.151 [main] INFO  Application - Application stopping: io.ktor.server.application.Application@128c502c
+2026-01-26 17:33:27.156 [main] INFO  Application - Application stopped: io.ktor.server.application.Application@128c502c
+2026-01-26 17:37:52.247 [main] INFO  com.zaxxer.hikari.HikariDataSource - TodoAppPool - Starting...
+2026-01-26 17:37:53.525 [main] INFO  Application - Application stopping: io.ktor.server.application.Application@15e0fe05
+2026-01-26 17:37:53.529 [main] INFO  Application - Application stopped: io.ktor.server.application.Application@15e0fe05
+2026-01-26 17:42:26.567 [main] INFO  com.zaxxer.hikari.HikariDataSource - TodoAppPool - Starting...
+2026-01-26 17:42:26.982 [main] INFO  com.zaxxer.hikari.pool.HikariPool - TodoAppPool - Added connection org.postgresql.jdbc.PgConnection@52d6cd34
+2026-01-26 17:42:26.983 [main] INFO  com.zaxxer.hikari.HikariDataSource - TodoAppPool - Start completed.
+2026-01-26 17:42:27.205 [main] INFO  Application - Application started in 1.372 seconds.
+2026-01-26 17:42:27.206 [main] INFO  Application - Application started: io.ktor.server.application.Application@618ff5c2
+2026-01-26 17:42:27.518 [main] INFO  Application - Responding at http://127.0.0.1:8080
+2026-01-26 17:43:42.786 [eventLoopGroupProxy-4-1] INFO  Application - Status: 200 OK, HTTP method: GET, URI: /, User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/144.0.0.0 Safari/537.36
+2026-01-26 17:43:43.119 [eventLoopGroupProxy-4-1] INFO  Application - Status: 404 Not Found, HTTP method: GET, URI: /favicon.ico, User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/144.0.0.0 Safari/537.36
+2026-01-26 17:43:43.119 [eventLoopGroupProxy-4-1] INFO  Application - Status: 404 Not Found, HTTP method: GET, URI: /favicon.ico, User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/144.0.0.0 Safari/537.36
+2026-01-26 18:15:06.208 [main] INFO  com.zaxxer.hikari.HikariDataSource - TodoAppPool - Starting...
+2026-01-26 18:15:06.712 [main] INFO  com.zaxxer.hikari.pool.HikariPool - TodoAppPool - Added connection org.postgresql.jdbc.PgConnection@75a118e6
+2026-01-26 18:15:06.712 [main] INFO  com.zaxxer.hikari.HikariDataSource - TodoAppPool - Start completed.
+2026-01-26 18:15:06.870 [main] INFO  Application - Application started in 1.43 seconds.
+2026-01-26 18:15:06.870 [main] INFO  Application - Application started: io.ktor.server.application.Application@2f4c2cd4
+2026-01-26 18:15:07.152 [main] INFO  Application - Responding at http://127.0.0.1:8080
+2026-01-26 18:15:15.260 [eventLoopGroupProxy-4-2] INFO  Application - Status: 200 OK, HTTP method: GET, URI: /, User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/144.0.0.0 Safari/537.36
+2026-01-26 18:15:15.428 [eventLoopGroupProxy-4-2] INFO  Application - Status: 404 Not Found, HTTP method: GET, URI: /favicon.ico, User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/144.0.0.0 Safari/537.36
+2026-01-26 18:15:15.428 [eventLoopGroupProxy-4-2] INFO  Application - Status: 404 Not Found, HTTP method: GET, URI: /favicon.ico, User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/144.0.0.0 Safari/537.36
+2026-01-26 21:32:01.208 [main] INFO  com.zaxxer.hikari.HikariDataSource - TodoAppPool - Starting...
+2026-01-26 21:32:01.751 [main] INFO  com.zaxxer.hikari.pool.HikariPool - TodoAppPool - Added connection org.postgresql.jdbc.PgConnection@75a118e6
+2026-01-26 21:32:01.753 [main] INFO  com.zaxxer.hikari.HikariDataSource - TodoAppPool - Start completed.
+2026-01-26 21:32:01.915 [main] INFO  Application - Application started in 1.696 seconds.
+2026-01-26 21:32:01.916 [main] INFO  Application - Application started: io.ktor.server.application.Application@2f4c2cd4
+2026-01-26 21:32:02.185 [main] INFO  Application - Responding at http://127.0.0.1:8080
+2026-01-26 21:34:56.079 [eventLoopGroupProxy-4-1] INFO  Application - Status: 200 OK, HTTP method: GET, URI: /health, User-Agent: Mozilla/5.0 (Windows NT; Windows NT 10.0; en-IN) WindowsPowerShell/5.1.22621.6133
+2026-01-26 21:35:08.359 [eventLoopGroupProxy-4-1] INFO  Application - Status: 200 OK, HTTP method: GET, URI: /, User-Agent: Mozilla/5.0 (Windows NT; Windows NT 10.0; en-IN) WindowsPowerShell/5.1.22621.6133
+2026-01-26 21:35:13.643 [eventLoopGroupProxy-4-2] INFO  Application - Status: 200 OK, HTTP method: GET, URI: /, User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/144.0.0.0 Safari/537.36
+2026-01-26 21:40:02.544 [eventLoopGroupProxy-4-4] INFO  Application - Status: 201 Created, HTTP method: POST, URI: /api/auth/register, User-Agent: curl/8.13.0
+2026-01-26 21:41:03.656 [eventLoopGroupProxy-4-5] INFO  Application - Status: 400 Bad Request, HTTP method: POST, URI: /api/auth/register, User-Agent: curl/8.13.0
+2026-01-26 21:41:03.656 [eventLoopGroupProxy-4-5] INFO  Application - Status: 400 Bad Request, HTTP method: POST, URI: /api/auth/register, User-Agent: curl/8.13.0
+2026-01-26 21:41:51.640 [eventLoopGroupProxy-4-6] INFO  Application - Status: 400 Bad Request, HTTP method: POST, URI: /api/auth/register, User-Agent: curl/8.13.0
+2026-01-26 21:41:51.641 [eventLoopGroupProxy-4-6] INFO  Application - Status: 400 Bad Request, HTTP method: POST, URI: /api/auth/register, User-Agent: curl/8.13.0
+2026-01-26 21:43:39.467 [eventLoopGroupProxy-4-7] INFO  Application - Status: 200 OK, HTTP method: POST, URI: /api/auth/login, User-Agent: curl/8.13.0
+2026-01-26 21:44:21.261 [eventLoopGroupProxy-4-8] INFO  Application - Status: 401 Unauthorized, HTTP method: POST, URI: /api/tasks, User-Agent: curl/8.13.0
+2026-01-26 21:44:21.261 [eventLoopGroupProxy-4-8] INFO  Application - Status: 401 Unauthorized, HTTP method: POST, URI: /api/tasks, User-Agent: curl/8.13.0
+2026-01-26 21:45:40.935 [eventLoopGroupProxy-4-9] INFO  Application - Status: 400 Bad Request, HTTP method: POST, URI: /api/tasks, User-Agent: curl/8.13.0
+2026-01-26 21:45:40.935 [eventLoopGroupProxy-4-9] INFO  Application - Status: 400 Bad Request, HTTP method: POST, URI: /api/tasks, User-Agent: curl/8.13.0
+2026-01-26 21:46:32.504 [eventLoopGroupProxy-4-10] INFO  Application - Status: 201 Created, HTTP method: POST, URI: /api/tasks, User-Agent: Mozilla/5.0 (Windows NT; Windows NT 10.0; en-IN) WindowsPowerShell/5.1.22621.6133
+2026-01-26 21:49:16.854 [eventLoopGroupProxy-4-11] INFO  Application - Status: 200 OK, HTTP method: GET, URI: /api/tasks, User-Agent: Mozilla/5.0 (Windows NT; Windows NT 10.0; en-IN) WindowsPowerShell/5.1.22621.6133
+2026-01-26 21:49:38.238 [eventLoopGroupProxy-4-12] INFO  Application - Status: 401 Unauthorized, HTTP method: GET, URI: /api/tasks, User-Agent: Mozilla/5.0 (Windows NT; Windows NT 10.0; en-IN) WindowsPowerShell/5.1.22621.6133
+2026-01-26 21:49:38.238 [eventLoopGroupProxy-4-12] INFO  Application - Status: 401 Unauthorized, HTTP method: GET, URI: /api/tasks, User-Agent: Mozilla/5.0 (Windows NT; Windows NT 10.0; en-IN) WindowsPowerShell/5.1.22621.6133
+2026-01-26 21:50:10.981 [eventLoopGroupProxy-4-11] INFO  Application - Status: 200 OK, HTTP method: GET, URI: /api/tasks?page=1&pageSize=10, User-Agent: Mozilla/5.0 (Windows NT; Windows NT 10.0; en-IN) WindowsPowerShell/5.1.22621.6133
+2026-01-26 21:50:49.221 [eventLoopGroupProxy-4-11] INFO  Application - Status: 200 OK, HTTP method: GET, URI: /api/tasks/f5257e83-c672-4e2e-bb53-2e19d1c4518c, User-Agent: Mozilla/5.0 (Windows NT; Windows NT 10.0; en-IN) WindowsPowerShell/5.1.22621.6133
+2026-01-26 21:51:18.927 [eventLoopGroupProxy-4-11] INFO  Application - Status: 200 OK, HTTP method: PUT, URI: /api/tasks/f5257e83-c672-4e2e-bb53-2e19d1c4518c, User-Agent: Mozilla/5.0 (Windows NT; Windows NT 10.0; en-IN) WindowsPowerShell/5.1.22621.6133
+2026-01-26 21:52:03.203 [eventLoopGroupProxy-4-11] INFO  Application - Status: 400 Bad Request, HTTP method: POST, URI: /api/auth/register, User-Agent: Mozilla/5.0 (Windows NT; Windows NT 10.0; en-IN) WindowsPowerShell/5.1.22621.6133
+2026-01-26 21:52:03.203 [eventLoopGroupProxy-4-11] INFO  Application - Status: 400 Bad Request, HTTP method: POST, URI: /api/auth/register, User-Agent: Mozilla/5.0 (Windows NT; Windows NT 10.0; en-IN) WindowsPowerShell/5.1.22621.6133
+2026-01-26 21:56:52.444 [eventLoopGroupProxy-4-1] INFO  Application - Status: 201 Created, HTTP method: POST, URI: /api/auth/register, User-Agent: curl/8.13.0
+2026-01-26 22:01:00.610 [eventLoopGroupProxy-4-3] INFO  Application - Status: 201 Created, HTTP method: POST, URI: /api/tasks, User-Agent: Mozilla/5.0 (Windows NT; Windows NT 10.0; en-IN) WindowsPowerShell/5.1.22621.6133
+2026-01-26 22:02:11.514 [eventLoopGroupProxy-4-3] INFO  Application - Status: 201 Created, HTTP method: POST, URI: /api/tasks/share, User-Agent: Mozilla/5.0 (Windows NT; Windows NT 10.0; en-IN) WindowsPowerShell/5.1.22621.6133
+2026-01-26 22:02:57.967 [eventLoopGroupProxy-4-3] INFO  Application - Status: 200 OK, HTTP method: GET, URI: /api/tasks/shared, User-Agent: Mozilla/5.0 (Windows NT; Windows NT 10.0; en-IN) WindowsPowerShell/5.1.22621.6133
+2026-01-26 22:03:25.629 [eventLoopGroupProxy-4-3] INFO  Application - Status: 200 OK, HTTP method: GET, URI: /api/tasks/search-users?q=friend, User-Agent: Mozilla/5.0 (Windows NT; Windows NT 10.0; en-IN) WindowsPowerShell/5.1.22621.6133
+2026-01-26 22:03:42.036 [eventLoopGroupProxy-4-3] INFO  Application - Status: 200 OK, HTTP method: DELETE, URI: /api/shares/07921d7a-734b-44ae-ad6d-dd54ad3c537f, User-Agent: Mozilla/5.0 (Windows NT; Windows NT 10.0; en-IN) WindowsPowerShell/5.1.22621.6133
+2026-01-26 22:03:56.161 [eventLoopGroupProxy-4-3] INFO  Application - Status: 200 OK, HTTP method: DELETE, URI: /api/tasks/2b31018b-e45a-4d91-8cc7-9885c058b95e, User-Agent: Mozilla/5.0 (Windows NT; Windows NT 10.0; en-IN) WindowsPowerShell/5.1.22621.6133

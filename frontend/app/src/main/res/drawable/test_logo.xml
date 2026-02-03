@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<vector xmlns:android="http://schemas.android.com/apk/res/android"
+    android:width="120dp"
+    android:height="120dp"
+    android:viewportWidth="120"
+    android:viewportHeight="120">
+
+    <!-- Notepad/list outline - Blue color -->
+    <path
+        android:fillColor="#2196F3"
+        android:pathData="M30,20h60v80h-60z"/>
+
+    <!-- List lines - White for contrast -->
+    <path
+        android:fillColor="#FFFFFF"
+        android:pathData="M40,35h40v5h-40z M40,50h40v5h-40z M40,65h25v5h-25z"/>
+
+    <!-- Checkmark - White -->
+    <path
+        android:fillColor="#FFFFFF"
+        android:pathData="M70,65l10,10 15,-20"/>
+</vector>

@@ -34,3 +34,10 @@ out/
 
 ### VS Code ###
 .vscode/
+# Android Frontend
+frontend/.gradle/
+frontend/build/
+frontend/.idea/
+frontend/local.properties
+frontend/*.iml
+frontend/captures/
