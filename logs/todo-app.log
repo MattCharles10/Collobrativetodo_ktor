@@ -4,3 +4,17 @@
 2026-02-07 18:25:41.142 [main] INFO  Application - Application started in 2.91 seconds.
 2026-02-07 18:25:41.145 [main] INFO  Application - Application started: io.ktor.server.application.Application@31ddb930
 2026-02-07 18:25:41.584 [main] INFO  Application - Responding at http://127.0.0.1:8080
+2026-02-07 18:26:25.142 [eventLoopGroupProxy-4-1] INFO  Application - Status: 200 OK, HTTP method: GET, URI: /api/tasks?page=1&pageSize=20, User-Agent: okhttp/4.12.0
+2026-02-07 18:26:31.396 [eventLoopGroupProxy-4-2] INFO  Application - Status: 200 OK, HTTP method: GET, URI: /api/tasks/shared?page=1&pageSize=20, User-Agent: okhttp/4.12.0
+2026-02-07 18:26:34.700 [eventLoopGroupProxy-4-3] INFO  Application - Status: 200 OK, HTTP method: GET, URI: /api/tasks?page=1&pageSize=20, User-Agent: okhttp/4.12.0
+2026-02-07 18:26:45.081 [eventLoopGroupProxy-4-4] INFO  Application - Status: 200 OK, HTTP method: GET, URI: /api/tasks?page=1&pageSize=20, User-Agent: okhttp/4.12.0
+2026-02-07 18:26:46.958 [eventLoopGroupProxy-4-5] INFO  Application - Status: 200 OK, HTTP method: GET, URI: /api/tasks/6b218d0f-f26d-4339-8b52-443f8ca76fb8, User-Agent: okhttp/4.12.0
+2026-02-07 18:26:50.137 [eventLoopGroupProxy-4-6] INFO  Application - Status: 200 OK, HTTP method: GET, URI: /api/tasks/6b218d0f-f26d-4339-8b52-443f8ca76fb8, User-Agent: okhttp/4.12.0
+2026-02-07 18:28:53.859 [eventLoopGroupProxy-4-7] INFO  Application - Status: 200 OK, HTTP method: GET, URI: /api/tasks?page=1&pageSize=20, User-Agent: okhttp/4.12.0
+2026-02-07 18:29:21.839 [eventLoopGroupProxy-4-8] INFO  Application - Status: 200 OK, HTTP method: GET, URI: /api/tasks?page=1&pageSize=20, User-Agent: okhttp/4.12.0
+2026-02-07 18:29:29.941 [eventLoopGroupProxy-4-9] INFO  Application - Status: 200 OK, HTTP method: GET, URI: /api/tasks/6b218d0f-f26d-4339-8b52-443f8ca76fb8, User-Agent: okhttp/4.12.0
+2026-02-07 18:29:36.572 [eventLoopGroupProxy-4-10] INFO  Application - Status: 200 OK, HTTP method: GET, URI: /api/tasks/6b218d0f-f26d-4339-8b52-443f8ca76fb8, User-Agent: okhttp/4.12.0
+2026-02-07 18:29:50.369 [eventLoopGroupProxy-4-11] INFO  Application - Status: 200 OK, HTTP method: GET, URI: /api/tasks/search-users?q=us, User-Agent: okhttp/4.12.0
+2026-02-07 18:30:46.032 [eventLoopGroupProxy-4-1] INFO  Application - Status: 200 OK, HTTP method: GET, URI: /api/tasks/6b218d0f-f26d-4339-8b52-443f8ca76fb8, User-Agent: okhttp/4.12.0
+2026-02-07 18:30:47.231 [eventLoopGroupProxy-4-12] INFO  Application - Status: 201 Created, HTTP method: POST, URI: /api/tasks/share, User-Agent: okhttp/4.12.0
+2026-02-07 18:30:58.709 [eventLoopGroupProxy-4-2] INFO  Application - Status: 200 OK, HTTP method: GET, URI: /api/tasks?page=1&pageSize=20, User-Agent: okhttp/4.12.0
